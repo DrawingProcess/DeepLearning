@@ -1,3 +1,5 @@
-Seongjun Choi
-최예원
+## DeepLearning
+
+Seongjun Choi</br>
+최예원</br>
 Seunghoon Lee
